@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi 👋🏻 I'm Victoria.
+
+I'm interested in Data Science 📊        
+
+I got a CS degree 🎓, and [here is my graduate work (in Russian)](https://github.com/victorioustone/cityfarming), where I analyse of Cross-Influence of Microclimate, Lighting, and Soil Parameters in the Vertical Farm of the “Fundamentals of Biotechnology” of the Russian Academy of Sciences.      
+
+The results were also published in "Agronomy" journal 📃 -> [here (in English)](https://doi.org/10.3390/agronomy13082174)    
+
+✍🏻 Skills     
+**Supervised Learning**: CatBoost, XGBoost, Random Forest, SVM           
+**Unsupervised Learning**: K-means Clustering             
+**Deep Learning**: CNN (pytorch)         
+**Data Visualization**: seaborn (matplotlib), plotly         
+
+🛠️ Tools     
+**Language**: Python, SQL, Javascript     
+**Database**: MySQL, PostgreSQL     
+
+I am currently improving my skills by working with various datasets and participating in Kaggle competitions -> here is my [profile](https://www.kaggle.com/victoriakamenchuk).
+
+🫱🏻‍🫲🏾 Connect with me on [LinkedIn](https://www.linkedin.com/in/vkamenchuk)
 
 <!--
 **victorioustone/victorioustone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
