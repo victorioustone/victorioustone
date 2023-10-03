@@ -1,4 +1,4 @@
-### Hi 👋🏻 I'm Victoria.
+### Hi, I'm Victoria 👋🏻 
 
 I'm interested in Data Science 📊        
 
