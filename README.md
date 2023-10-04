@@ -4,7 +4,7 @@ I'm interested in Data Science 📊
 
 I got a CS degree 🎓, and [here is my graduate work (in Russian)](https://github.com/victorioustone/cityfarming), where I analyse of Cross-Influence of Microclimate, Lighting, and Soil Parameters in the Vertical Farm of the “Fundamentals of Biotechnology” of the Russian Academy of Sciences.      
 
-The results were also published in "Agronomy" journal 📃 -> [here (in English)](https://doi.org/10.3390/agronomy13082174)    
+The results were also published in "Agronomy" journal (MDPI) 📃 -> [here (in English)](https://doi.org/10.3390/agronomy13082174)    
 
 ✍🏻 Skills     
 **Supervised Learning**: CatBoost, XGBoost, Random Forest, SVM           
