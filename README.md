@@ -1,6 +1,6 @@
 ### Hi, I'm Victoria 👋🏻 
 
-I'm a system analyst 🛠️   
+I'm a System Analyst 🛠️   
 However, I get the best of both worlds – I'm interested in Data Science 📊        
 
 I got a CS degree 🎓, and [here is my graduate work (in Russian)](https://github.com/victorioustone/cityfarming), where I analyse the cross-influence of microclimate, lighting, and soil parameters in the vertical farm of the “Fundamentals of Biotechnology” of the Russian Academy of Sciences.      
