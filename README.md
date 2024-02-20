@@ -17,10 +17,6 @@ The results were also published in "Agronomy" journal (MDPI) 📃 -> [here (in E
 **Language**: Python, SQL, Javascript     
 **Database**: MySQL, PostgreSQL     
 
-I am currently improving my skills by working with various datasets and participating in Kaggle competitions -> here is my [profile](https://www.kaggle.com/victoriakamenchuk).
-
-🫱🏻‍🫲🏾 Connect with me on [LinkedIn](https://www.linkedin.com/in/vkamenchuk)
-
 <!--
 **victorioustone/victorioustone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
