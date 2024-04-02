@@ -14,7 +14,7 @@ The results were also published in "Agronomy" journal (MDPI) 📃 -> [here (in E
 **Data Visualization**: seaborn (matplotlib), plotly         
 
 🛠️ Tools     
-**Language**: Python, SQL, Javascript     
+**Language**: Javascript (Node JS), Python, SQL    
 **Database**: MySQL, PostgreSQL     
 
 <!--
